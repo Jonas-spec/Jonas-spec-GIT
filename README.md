@@ -52,7 +52,7 @@
 
     <section id="about">
         <h2>About Us</h2>
-        <p>Umwamba Media is dedicated to providing quality services in technology and entertainment, helping you achieve your goals.</p>
+        <p>Umwamba Media is dedicated to providing quality services in technology and entertainment, helping you achieve your goals.</p><br>
     </section>
 
     <section id="contact">
